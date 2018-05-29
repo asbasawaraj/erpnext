@@ -10,7 +10,7 @@ that it's hard to manage the dynamic nature of doing businesses. Small businesse
 are not so different from large ones. They contain most of the complexities of
 a large business along with many other constraints. Small businesses have to
 communicate with customers, do accounts, pay taxes, do payroll, manage timelines,
-deliver quality goods and services, answer questions, and keep everyone happy, 
+deliver quality goods and services, answer questions, and keep everyone happy,
 just like in large businesses.
 
 Large businesses have the advantage of using advanced data systems to manage
@@ -21,8 +21,8 @@ everyone is on the same page. An ERP changes that.
 
 ## What is ERPNext?
 
-ERPNext is an end-to-end business solution that helps you to manage all your business information in one application 
-and use it to not only manage operations but also enables you to take informed decisions well in time to remain ahead of your competition. It forms a backbone of your business to add strength, transparency and control to your enterprise. 
+ERPNext is an end-to-end business solution that helps you to manage all your business information in one application
+and use it to not only manage operations but also enables you to take informed decisions well in time to remain ahead of your competition. It forms a backbone of your business to add strength, transparency and control to your enterprise.
 
 Among other things, ERPNext will help you to:
 
@@ -35,9 +35,11 @@ Among other things, ERPNext will help you to:
   * Maintain a database of all your customers, suppliers and their contacts.
   * Prepare quotes.
   * Tracking your budgets and spending
-  * Determine effective selling price based on the actual raw material, machinery and effort cost. 
+  * Determine effective selling price based on the actual raw material, machinery and effort cost.
   * Get reminders on maintenance schedules.
-  * Publish your website.
+  * Publish your website.  
+  * Prepare your Balance Sheet and Profit and Loss Statement  
+  
 
 And a lot lot lot more.
 
